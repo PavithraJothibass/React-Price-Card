@@ -6,6 +6,10 @@
 
 ###
 
+ <p align="1eft">Demo : https://price-card-using-react-js.netlify.app</p> 
+
+###
+
 <h2 align="left">About</h2>
 
 ###
